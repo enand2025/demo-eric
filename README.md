@@ -1,1 +1,1 @@
-# demo-ericnand
+# demo-eric
